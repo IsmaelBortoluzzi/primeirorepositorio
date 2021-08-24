@@ -4,5 +4,5 @@ int main(void) {
 
     printf("Testando de novo\n\n");
 
-    return;
+    return 1;
 }
