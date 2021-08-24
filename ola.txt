@@ -8,3 +8,8 @@ tentado de novo
 sete
 20982
 kars
+
+alou, 3, 4, 5
+
+zero;
+78;
