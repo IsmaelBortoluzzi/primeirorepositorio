@@ -1,2 +1,3 @@
 # primeirorepositorio
-Primeiro repositório para aprender a usar isso
+
+Reciclando este rep para o curso de GIT 
